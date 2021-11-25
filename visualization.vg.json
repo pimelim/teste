@@ -41,7 +41,7 @@
   "data": [
     {
       "name": "tree",
-      "url": "github.com/pimelim/teste/teste.json",
+      "url": "teste.json",
       "transform": [
         {"type": "stratify", "key": "id", "parentKey": "parent"},
         {
